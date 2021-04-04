@@ -6,7 +6,7 @@ This project is made for scheduling reasons you simply enter what your going to 
  you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.then open in browser.
 ## Usage
  clone the repo from https://github.com/johnbatista1223/work-schedule-planner you can use visual studio code as ide then open in google chrome or any browser. the usage of this app is for daily scheduling you can simply insert what you need to be done in the text boxes and it saves until your done with the task.
- <img src="work-day-planner.png" alt="work day planner" width 300>
+ <img src="work-day-planner.png" alt="work day planner" width=300>
 
 ## License
 MIT License
