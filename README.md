@@ -1,9 +1,9 @@
 # work-schedule-planner
 ## Description
-This project is made for scheduling reasons you simply enter what your going to do for the day and it stores the information in the time blocks, if you leave the app and come back your information will be saved until you delete it yourself. 
+This project is made for scheduling reasons you simply enter what your going to do for the day and it stores the information in the time blocks, if you leave the app and come back your information will be saved until you delete it yourself.the color red would indicate that its present time the grey would indicate its the past and the green would be future time. 
 
 ## Installation
- you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.then open in browser.
+ you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.then open in browser. here is a link to the actual website https://johnbatista1223.github.io/work-schedule-planner/ where you can check it out.
 ## Usage
  clone the repo from https://github.com/johnbatista1223/work-schedule-planner you can use visual studio code as ide then open in google chrome or any browser. the usage of this app is for daily scheduling you can simply insert what you need to be done in the text boxes and it saves until your done with the task.
  <img src="work-day-planner.png" alt="work day planner" width=300>
